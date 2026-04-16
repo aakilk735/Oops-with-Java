@@ -8,7 +8,7 @@ class Rectangle implements Shape{
 }
 }
 //Main class to create object and call methods
-public class AbstractionWithInterface{A
+public class AbstractionWithInterface{
     public static void main(String args[]){
         Rectangle sc =new Rectangle();
         sc.draw();
